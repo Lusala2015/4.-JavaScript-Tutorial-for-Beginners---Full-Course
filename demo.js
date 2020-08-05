@@ -31,3 +31,8 @@ switch(day){
                 document.write('Wrong Input');
 }
         
+
+var x= 2;
+for(;x<=10;x+=2){
+        document.writeln(x)
+}
